@@ -1,0 +1,1 @@
+../../Resources/openslide/_convert.pyi
